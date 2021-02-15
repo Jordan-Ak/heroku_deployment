@@ -16,3 +16,7 @@ Put the following commands in your command line.
 11. make a new directory templates in your {app_name} directory and within that directory make a new directory with the name of your app
 12. Inside the {app_name} of the templates put your templates file.#
 13. type in your cmd "Python manage.py runserver" #This should run your site on your local server.
+
+https://www.codementor.io/@jamesezechukwu/how-to-deploy-django-app-on-heroku-dtsee04d4
+follow this link for remaining steps to deploy to heroku server.
+any problems you can mail me at JosiahDavid98@gmail.com
