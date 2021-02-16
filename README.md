@@ -19,4 +19,4 @@ Put the following commands in your command line.
 
 https://www.codementor.io/@jamesezechukwu/how-to-deploy-django-app-on-heroku-dtsee04d4
 follow this link for remaining steps to deploy to heroku server.
-any problems you can mail me at JosiahDavid98@gmail.com
+
