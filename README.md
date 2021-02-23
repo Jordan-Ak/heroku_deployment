@@ -1,6 +1,8 @@
 # heroku_deployment
 This minor django project is to cover the steps that will help you deploy a django project to heroku.
 
+If you already have a project you want to deploy skip to the next bulleted list.
+
 Put the following commands in your command line.
 1. create your virtual env with "python -m venv {virtual_environment_name}" # To create the virutal environment
 2. "{virtual_environment_name}\scripts\activate" # To activate the virutal environment
